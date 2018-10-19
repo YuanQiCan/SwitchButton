@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton">
+        <attr name="leftText" format="string"/>
+        <attr name="rightText" format="string"/>
+        <attr name="btnTextSize" format="dimension"/>
+        <attr name="checkedTextColor" format="color"/>
+        <attr name="unCheckedTextColor" format="color"/>
+
+        <attr name="backColor" format="color"/>
+        <attr name="btnColor" format="color"/>
+
+        <attr name="backStrokeColor" format="color"/>
+        <attr name="btnStrokeColor" format="color"/>
+
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="roundRadius" format="integer"/>
+
+    </declare-styleable>
+</resources>
